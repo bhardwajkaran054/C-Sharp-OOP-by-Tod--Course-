@@ -1,0 +1,1 @@
+G:\CSharp OOP\Visual Studio Projects\04. Access Modifiers\AccessModifiersExample\obj\Release\AccessModifiersExample.csprojResolveAssemblyReference.cache
